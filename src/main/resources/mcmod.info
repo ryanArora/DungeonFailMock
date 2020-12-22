@@ -1,0 +1,16 @@
+[
+  {
+    "modid": "dungeonfailmock",
+    "name": "DungeonFailMock",
+    "description": "Makes fun of people for failing dungeons.",
+    "version": "${version}",
+    "mcversion": "${mcversion}",
+    "url": "https://github.com/ryanArora/DungeonFailMock/releases",
+    "updateUrl": "https://github.com/ryanArora/DungeonFailMock/releases",
+    "authorList": ["MYNAMERYAN"],
+    "credits": "",
+    "logoFile": "",
+    "screenshots": [],
+    "dependencies": ["gson"]
+  }
+]
